@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spotify Callback</title>
+</head>
+<body>
+  <h1>Spotify 授權成功！</h1>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const code = params.get("code");
+    const state = params.get("state");
+
+    document.body.innerHTML += `<p>Code: ${code}</p>`;
+    document.body.innerHTML += `<p>State: ${state}</p>`;
+  </script>
+</body>
+</html>
+
