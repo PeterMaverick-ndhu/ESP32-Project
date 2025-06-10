@@ -20,7 +20,7 @@ ground_y = 50  # 地面高度
 
 # 障礙物設定
 obstacles = []  # [(x, y), ...]
-obstacle_speed = 30  # 障礙物速度
+obstacle_speed = 20  # 障礙物速度
 obstacle_cooldown = 0  # 兩個障礙物之間的冷卻時間（frame 數）
 
 # 分數
@@ -114,3 +114,4 @@ def start_dino_game():
         # 更新分數
         score += 1
         time.sleep(0.05)  # 控制速度
+
