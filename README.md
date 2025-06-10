@@ -8,7 +8,7 @@ ESP32-Project/
 ├── README.md # 這份說明檔  
 ├── callback.html # 處理 Spotify OAuth 授權回調的 HTML 頁面  
 └── ESP32-Project/ # 主要專案資料夾  
-(   )├── pycache/ # 儲存編譯後的 .pyc 檔案  
+`   `├── pycache/ # 儲存編譯後的 .pyc 檔案  
 `   `│ └── spotify_token_helper.cpython-311.pyc # 用來處理 Spotify token  
 `   `├── Hide_the_block.py # 小遊戲 - 躲避掉落方塊  
 `   `├── Spotify_play.py # 播放 Spotify 音樂  
