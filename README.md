@@ -27,13 +27,13 @@ ESP32-Project/
 ## 使用說明
   
 使用到的檔案  
-`   `main.py  
-`   `menu.py  
-`   `Hide_the_block.py  
-`   `mp3_player.py  
-`   `spotify_token_helper.py  
-`   `dinosaur.py  
-`   `ssd1306.py  
+`   `1.main.py  
+`   `2.menu.py  
+`   `3.Hide_the_block.py  
+`   `4.mp3_player.py  
+`   `5.spotify_token_helper.py  
+`   `6.dinosaur.py  
+`   `7.ssd1306.py  
   
 ### 步驟 1: Spotify 授權
 
