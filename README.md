@@ -8,20 +8,20 @@ ESP32-Project/
 ├── README.md # 這份說明檔  
 ├── callback.html # 處理 Spotify OAuth 授權回調的 HTML 頁面  
 └── ESP32-Project/ # 主要專案資料夾  
-    ├── pycache/ # 儲存編譯後的 .pyc 檔案  
-    │ └── spotify_token_helper.cpython-311.pyc # 用來處理 Spotify token  
-    ├── Hide_the_block.py # 小遊戲 - 躲避掉落方塊  
-    ├── Spotify_play.py # 播放 Spotify 音樂  
-    ├── autoassign.py # 自動從 Spotify 獲取新 token  
-    ├── dinosaur.py # 小遊戲 - 恐龍跳方塊  
-    ├── main.py # 主程式 - 整合各部分程式  
-    ├── menu.py # OLED 顯示螢幕的選單  
-    ├── mp3_player.py # 播放 Spotify 音樂（需結合手機及 Spotify Premium）  
-    ├── spotify_api.py # 用來呼叫 Spotify API 的程式  
-    ├── spotify_api.txt # 存放 Spotify 授權碼的暫存檔案（已過期）  
-    ├── spotify_token_helper.py # 用來處理 Spotify token 的腳本  
-    ├── ssd1306.py # OLED 顯示用程式  
-    ├── token.json # Spotify token（已過期）  
+'  '├── pycache/ # 儲存編譯後的 .pyc 檔案  
+'  '│ └── spotify_token_helper.cpython-311.pyc # 用來處理 Spotify token  
+'  '├── Hide_the_block.py # 小遊戲 - 躲避掉落方塊  
+'  '├── Spotify_play.py # 播放 Spotify 音樂  
+'  '├── autoassign.py # 自動從 Spotify 獲取新 token  
+'  '├── dinosaur.py # 小遊戲 - 恐龍跳方塊  
+'  '├── main.py # 主程式 - 整合各部分程式  
+'  '├── menu.py # OLED 顯示螢幕的選單  
+'  '├── mp3_player.py # 播放 Spotify 音樂（需結合手機及 Spotify Premium）  
+'  '├── spotify_api.py # 用來呼叫 Spotify API 的程式  
+'  '├── ~~spotify_api.txt # 存放 Spotify 授權碼的暫存檔案~~（已過期）  
+'  '├── spotify_token_helper.py # 用來處理 Spotify token 的腳本  
+'  '├── ssd1306.py # OLED 顯示用程式  
+'  '├── ~~token.json # Spotify token~~（已過期）  
 
 
 ## 使用說明
