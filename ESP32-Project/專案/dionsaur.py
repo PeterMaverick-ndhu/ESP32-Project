@@ -20,7 +20,7 @@ ground_y = 50  # 地面高度
 
 # 障礙物設定
 obstacles = []  # [(x, y), ...]
-obstacle_speed = 20  # 障礙物速度
+obstacle_speed = 10  # 障礙物速度
 obstacle_cooldown = 0  # 兩個障礙物之間的冷卻時間（frame 數）
 
 # 分數
